@@ -1,0 +1,17 @@
+{
+	"name": "flowchart-gen",
+	"version": "1.0.0",
+	"description": "generates flowcharts from source code for my ap cs class because i like cheating",
+	"main": "src/main.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"author": "Nobody4931",
+	"license": "UNLICENSED",
+	"dependencies": {
+		"jsdom": "^18.0.1",
+		"mxgraph": "^4.2.2",
+		"tree-sitter": "^0.20.0",
+		"tree-sitter-python": "^0.19.0"
+	}
+}

@@ -1,0 +1,5 @@
+# https://www.reddit.com/r/ProgrammerHumor/comments/6s0wov/heaviest_objects_in_the_universe/
+node_modules/
+
+# testing files
+bin/
