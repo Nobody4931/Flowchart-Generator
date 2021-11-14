@@ -19,7 +19,7 @@ all I care
 Linked lists. A bunch of linked lists.
 
 #### Did you create all this yourself?
-Haha, of course not. Everyone knows that to become a better programmer,
+Of course not. Everyone knows that to become a better programmer,
 all you have to do is to steal other people's work
 
 All the parsing of the source code into a syntax tree was done by
